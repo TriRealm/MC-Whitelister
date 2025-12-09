@@ -5,6 +5,9 @@
 [![Discord](https://img.shields.io/discord/1383009209196613675?color=7289DA&label=Dev%20Discord)](https://discord.gg/EvYFUSpbVz)
 [![Kofi](https://img.shields.io/badge/Kofi-Support_the_Dev-8755D6)](https://ko-fi.com/trirealm)
 
+![Node](https://img.shields.io/badge/Node-22-8755D6)
+![Discordjs](https://img.shields.io/badge/Discord.js-14.25.1-8755D6)
+
 ---
 
 **MC-Whitelister** is a bot that listens and checks roles in MULTIPLE Discord Servers.
