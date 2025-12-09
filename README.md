@@ -38,6 +38,3 @@ This bot allows you to have different Roles in each guild if they lable their su
 ### `/whitelist`
 - **Permissions:** Server Owner with `Administrator`  
 - Creates the embed in the channel the command was used with a button to allow users to whitelist themselves.
-
-# Remove a user from all mutual servers with the reason "GFX/Scam Artist"
-/globalban @troublesomeUser GFX/Scam Artist
