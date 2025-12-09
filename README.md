@@ -7,7 +7,8 @@
 
 ---
 
-**MC-Whitelister** is a bot that listens and checks roles in discord servers and if a user has `X` role they can whitelist! once `X` role is removed their whitelist will be auto-removed.
+**MC-Whitelister** is a bot that listens and checks roles in MULTIPLE Discord Servers.
+If a user has `X` role they can whitelist! once `X` role is removed their whitelist will be auto-removed.
 
 This was made due to me wanting a Mod/Plugin/Bot that could handle MULTIPLE Communities to access onto the same server but I couldn't find any. So... I made it.
 
