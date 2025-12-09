@@ -7,6 +7,7 @@
 
 
 Versions
+---
 ![Node](https://img.shields.io/badge/Node.js-22-7289DA)
 ![Discordjs](https://img.shields.io/badge/Discord.js-14.25.1-7289DA)
 
