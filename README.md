@@ -33,7 +33,7 @@ This bot allows you to have different Roles in each guild if they lable their su
 
 ---
 
-## 📖 "/Config" Command Details
+## 📖 Setup Command Details
 
 ### `/whitelist`
 - **Permissions:** Server Owner with `Administrator`  
