@@ -25,7 +25,7 @@ This bot allows you to have different Roles in each guild if they lable their su
 
 ---
 
-## ⚙️ /config Command Overview
+## ⚙️ Setup Command Overview
 
 | Subcommand / Option | Permissions | Description |
 |--------------------|------------|-------------|
